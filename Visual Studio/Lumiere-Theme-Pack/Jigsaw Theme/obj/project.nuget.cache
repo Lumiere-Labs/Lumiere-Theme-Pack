@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Dc2aXYL4ZRXviX6i5gnY9cTMaix/x/ze76apYKHibfGLvm27py9WnfWPcS91TdsCE0wkr9YkOcUS2R5r+Epow==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\Lumiere-Theme-Pack\\Visual Studio\\Lumiere-Theme-Pack\\Jigsaw Theme\\Lumiere Theme Pack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}

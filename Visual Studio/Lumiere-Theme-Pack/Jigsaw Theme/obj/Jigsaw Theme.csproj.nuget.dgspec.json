@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dev\\Lumiere-Theme-Pack\\Visual Studio\\Lumiere-Theme-Pack\\Jigsaw Theme\\Jigsaw Theme.csproj": {}
+  },
+  "projects": {
+    "D:\\dev\\Lumiere-Theme-Pack\\Visual Studio\\Lumiere-Theme-Pack\\Jigsaw Theme\\Jigsaw Theme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\Lumiere-Theme-Pack\\Visual Studio\\Lumiere-Theme-Pack\\Jigsaw Theme\\Jigsaw Theme.csproj",
+        "projectName": "Jigsaw Theme",
+        "projectPath": "D:\\dev\\Lumiere-Theme-Pack\\Visual Studio\\Lumiere-Theme-Pack\\Jigsaw Theme\\Jigsaw Theme.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Lumiere-Theme-Pack\\Visual Studio\\Lumiere-Theme-Pack\\Jigsaw Theme\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31709.430, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
